@@ -1,3 +1,3 @@
 # Projeto-Portfolio
 
-Projeto criando durante as aulas da segunda edição da FronWeek.
+Projeto criado durante as aulas da segunda edição da FronWeek.
